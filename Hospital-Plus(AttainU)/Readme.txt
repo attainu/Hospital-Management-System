@@ -19,7 +19,7 @@ patient who is really need for immediate treatment.
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
-Live Web App: https://hospital-plus-2020.herokuapp.com/ ( Username: attainu | Password: rahul123 )
+Live Demo: https://hospital-plus-2020.herokuapp.com/ ( Username: attainu | Password: rahul123 )
 
 1. Download the repository: git clone https://github.com/AttainU/Hospital-Management-System
 2. Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
