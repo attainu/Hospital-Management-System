@@ -23,11 +23,11 @@ overview over the patients and rooms, and better manage the rooms assignment acr
 ◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
 patient who is really need for immediate treatment.
 ----------------------------------------------------------------------------------------------------------------
-<iframe src="Hospital-Plus(AttainU)/Hospital-Plus_Hospital-Management-System.pdf" width="100%" height="500px">
+<iframe src="/Hospital-Plus(AttainU)/Hospital-Plus_Hospital-Management-System.pdf" width="100%" height="500px">
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
-Live Web App: <a target="_blank">https://hospital-plus-2020.herokuapp.com/</a> ( Username: attainu | Password: rahul123 )
+Live Web App: <a href="https://hospital-plus-2020.herokuapp.com/" target="_blank">https://hospital-plus-2020.herokuapp.com/</a> ( Username: attainu | Password: rahul123 )
 
 1. Download the repository: git clone https://github.com/AttainU/Hospital-Management-System
 2. Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
