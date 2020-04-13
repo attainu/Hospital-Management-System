@@ -15,7 +15,7 @@ overview over the patients and rooms, and better manage the rooms assignment acr
 ◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
 patient who is really need for immediate treatment.<br>
 
-<img src="public/images/hospital.jpg" width="100%"><br>
+<img src="public/images/hsopital.jpg" width="100%"><br>
 <a href="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf">PDF Documents</a>
 
 How To Install:
