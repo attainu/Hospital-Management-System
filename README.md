@@ -43,7 +43,7 @@ How To Use:
 ------------------------------------------------------------------------------------------------------------------
 ◦ Dashboard:
 -----------------------------------------------
-◦ Data about patients and rooms is available here. The page is split into three tables.
+◦ Data about patients and rooms is available here. The page is split into three tables.<br>
 ◦ Double click on patient for update their disease or delete that patient.
 ◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.
 ◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).
