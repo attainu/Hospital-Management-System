@@ -1,3 +1,4 @@
+<img src="punlic/images/logo.png">
 Hospital Plus - Hospital Management System
 -----------------------------------------------
 DESIGNED & CREATED BY: RAHUL ABHISHEK<br>
