@@ -44,22 +44,17 @@ How To Use:
 ◦ Dashboard:
 -----------------------------------------------
 ◦ Data about patients and rooms is available here. The page is split into three tables.
------------------------------------------------
 ◦ Double click on patient for update their disease or delete that patient.
------------------------------------------------
 ◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.
------------------------------------------------
 ◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).
------------------------------------------------
+
 
 ◦ Add Patient Page:
 -----------------------------------------------
 ◦ You can add a new patient in the system with his personal details and his diseases. The application
 automatically computes the score of the patient based on the entered diseases.
------------------------------------------------
 
 ◦ System setting:
 -----------------------------------------------
 ◦ The control center of the application. It allows users to manage the diseases & rooms of the Hospital and
 create new accounts.
--------------------------------------------------------------------------------------------------------------------
