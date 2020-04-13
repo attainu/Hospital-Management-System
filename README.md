@@ -5,8 +5,7 @@ PRESENTED TO: ATTAINU<br>
 INSTRUCTOR: SUNDEEP SIR<br>
 GUIDED BY: ABDULLAH (MENTOR)<br>
 
-About Hospital Plus:
----------------------------------------------------------------------------------------------------------------
+About Hospital Plus:<br>
 ◦ Hospital Plus is a web application for managing hospitals rooms and determining the patient's priority for
 isolation. The app provides a centralized hub for managing the patients and planning their distribution
 across hospital’s rooms.<br>
@@ -15,7 +14,10 @@ overview over the patients and rooms, and better manage the rooms assignment acr
 ◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
 patient who is really need for immediate treatment.<br>
 ----------------------------------------------------------------------------------------------------------------
-<embed src="/Hospital-Plus(AttainU)/Hospital-Plus_Hospital-Management-System.pdf" type="application/pdf" width="100%" height="500px"/>
+<object data="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf" type="application/pdf" width="300" height="200">
+<a href="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf">Docs</a>
+</object>
+<embed src="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf" type="application/pdf" width="100%" height="500px"/>
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
