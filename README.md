@@ -13,11 +13,8 @@ across hospital’s rooms.<br>
 overview over the patients and rooms, and better manage the rooms assignment across patients.<br>
 ◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
 patient who is really need for immediate treatment.<br>
-----------------------------------------------------------------------------------------------------------------
-<object data="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf" type="application/pdf" width="300" height="200">
-<a href="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf">Docs</a>
-</object>
-<embed src="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf" type="application/pdf" width="100%" height="500px"/>
+
+<a href="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf">PDF Documents</a>
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
@@ -38,9 +35,9 @@ How To Use:
 ◦ Dashboard:
 -----------------------------------------------
 ◦ Data about patients and rooms is available here. The page is split into three tables.<br>
-◦ Double click on patient for update their disease or delete that patient.
-◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.
-◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).
+◦ Double click on patient for update their disease or delete that patient.<br>
+◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.<br>
+◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).<br>
 
 
 ◦ Add Patient Page:
