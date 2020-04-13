@@ -1,13 +1,9 @@
 Hospital Plus - Hospital Management System
 -----------------------------------------------
-DESIGNED & CREATED BY: RAHUL ABHISHEK
------------------------------------------------
-PRESENTED TO: ATTAINU
------------------------------------------------
-INSTRUCTOR: SUNDEEP SIR
------------------------------------------------
-GUIDED BY: ABDULLAH (MENTOR)
------------------------------------------------
+DESIGNED & CREATED BY: RAHUL ABHISHEK<br>
+PRESENTED TO: ATTAINU<br>
+INSTRUCTOR: SUNDEEP SIR<br>
+GUIDED BY: ABDULLAH (MENTOR)<br>
 
 About Hospital Plus:
 ---------------------------------------------------------------------------------------------------------------
@@ -23,7 +19,7 @@ overview over the patients and rooms, and better manage the rooms assignment acr
 ◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
 patient who is really need for immediate treatment.
 ----------------------------------------------------------------------------------------------------------------
-<iframe src="/Hospital-Plus(AttainU)/Hospital-Plus_Hospital-Management-System.pdf" width="100%" height="500px">
+<embed src="/Hospital-Plus(AttainU)/Hospital-Plus_Hospital-Management-System.pdf" width="100%" height="500px"/>
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
