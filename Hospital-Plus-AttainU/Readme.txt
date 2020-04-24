@@ -1,26 +1,25 @@
-<img src="public/images/logo.png" width="100%"><br>
-Hospital Plus - Hospital Management System<br>
------------------------------------------------<br>
-DESIGNED & CREATED BY: RAHUL ABHISHEK<br>
-PRESENTED TO: ATTAINU<br>
-INSTRUCTOR: SUNDEEP SIR<br>
-GUIDED BY: ABDULLAH (MENTOR)<br>
+Hospital Plus - Hospital Management System
+DESIGNED & CREATED BY: RAHUL ABHISHEK
+PRESENTED TO: ATTAINU
+INSTRUCTOR: SUNDEEP SIR
+GUIDED BY: ABDULLAH (MENTOR)
 
-About Hospital Plus:<br>
+About Hospital Plus:
+---------------------------------------------------------------------------------------------------------------
 ◦ Hospital Plus is a web application for managing hospitals rooms and determining the patient's priority for
 isolation. The app provides a centralized hub for managing the patients and planning their distribution
-across hospital’s rooms.<br>
-◦ It allows nurses/hospital staff to keep track of the patients and their diseases in real time and to have an
-overview over the patients and rooms, and better manage the rooms assignment across patients.<br>
-◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
-patient who is really need for immediate treatment.<br>
+across hospital’s rooms.
 
-<img src="public/images/hsopital.jpg" width="100%"><br>
-<a href="Hospital-Plus-AttainU/Hospital-Plus_Hospital-Management-System.pdf">PDF Documents</a>
+◦ It allows nurses/hospital staff to keep track of the patients and their diseases in real time and to have an
+overview over the patients and rooms, and better manage the rooms assignment across patients.
+
+◦ Also it has feature like patients score of their disease that helps management to keep in priority to that
+patient who is really need for immediate treatment.
+----------------------------------------------------------------------------------------------------------------
 
 How To Install:
 ----------------------------------------------------------------------------------------------------------------
-Live Web App: <a href="https://hospital-plus-2020.herokuapp.com/" target="_blank">https://hospital-plus-2020.herokuapp.com/</a> ( Username: attainu | Password: rahul123 )
+Live Demo: https://hospital-plus-2020.herokuapp.com/ ( Username: attainu | Password: rahul123 )
 
 1. Download the repository: git clone https://github.com/AttainU/Hospital-Management-System
 2. Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
@@ -35,19 +34,16 @@ Live Web App: <a href="https://hospital-plus-2020.herokuapp.com/" target="_blank
 How To Use:
 ------------------------------------------------------------------------------------------------------------------
 ◦ Dashboard:
------------------------------------------------
-◦ Data about patients and rooms is available here. The page is split into three tables.<br>
-◦ Double click on patient for update their disease or delete that patient.<br>
-◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.<br>
-◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).<br>
+◦ Data about patients and rooms is available here. The page is split into three tables.
+◦ Double click on patient for update their disease or delete that patient.
+◦ To Assign room, first click on available room then click on patient, now popup will appear, you need to confirm that.
+◦ To clear the red warning sign you need to go on the patient’s personal page. To do that, you have to double click on his name. By clicking on the ‘Update button’ on the bottom of the page, the patient’s diagnosis in updated for the next 1 hours (consequently, the red warning sign disappears).
 
-
-◦ Add Patient Page:
------------------------------------------------
+◦ Add Patient Page
 ◦ You can add a new patient in the system with his personal details and his diseases. The application
 automatically computes the score of the patient based on the entered diseases.
 
 ◦ System setting:
------------------------------------------------
 ◦ The control center of the application. It allows users to manage the diseases & rooms of the Hospital and
 create new accounts.
+-------------------------------------------------------------------------------------------------------------------
